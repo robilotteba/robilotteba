@@ -251,7 +251,6 @@ FUNDAMENTOS ──► RED TEAM ──────────────► BLU
 
 ---
 
-> ⚠️ **Disclaimer:** todo el contenido de mis repositorios es con **fines educativos** y se practica únicamente en **entornos legales y autorizados** (TryHackMe, HackMyVM, laboratorios propios). Atacar sistemas sin permiso es ilegal.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1f6f3f,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
