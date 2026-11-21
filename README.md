@@ -127,8 +127,8 @@ Seguridad defensiva, monitoreo y SOC.
 
 | Curso / Certificación | Institución | Estado |
 |---|---|:---:|
-| TU_CURSO_1 (ej: Ethical Hacking) | EducaciónIT | 🟡 En curso |
-| TU_CURSO_2 (ej: Seguridad en Redes) | EducaciónIT | ⚪ Pendiente |
+| Ethical Hacking | EducaciónIT | 🟢 Completado |
+| Seguridad en Redes | EducaciónIT | 🟡 En curso|
 | Pre Security Path | TryHackMe | 🟡 En curso |
 | SOC Level 1 Path | TryHackMe | ⚪ Pendiente |
 | Jr Penetration Tester Path | TryHackMe | ⚪ Pendiente |
