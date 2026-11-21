@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 Perfil profesional
+## 👤 Perfil profesional
 
 **Técnico Superior en Soporte de Infraestructura** y Analista IT con sólida experiencia en la administración y mantenimiento de entornos **híbridos y multi-cloud** (AWS, Azure, Cloudflare).
 
@@ -70,7 +70,7 @@ Especializado en la gestión de **+400 máquinas virtuales**, automatización co
 
 ---
 
-## 🛠️ Habilidades técnicas
+## 🧰 Habilidades técnicas
 
 **☁️ Cloud & Virtualización**
 
@@ -114,7 +114,7 @@ Especializado en la gestión de **+400 máquinas virtuales**, automatización co
 
 ---
 
-## ⌨️ Comandos más usados
+## 📜 Comandos más usados
 
 > Mi referencia rápida del día a día administrando infraestructura. Desplegá cada bloque.
 
