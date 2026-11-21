@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d2e,100:1f6feb&height=200&section=header&text=Brian%20Robilotte&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Infraestructura%20IT%20%7C%20SysAdmin%20%26%20Cloud%20%7C%20Seguridad%20Inform%C3%A1tica&descAlignY=58&descSize=16" width="100%" alt="banner"/>
 
 <a href="https://github.com/robilotteba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Administraci%C3%B3n+de+infraestructura+h%C3%ADbrida+y+multi-cloud;400%2B+m%C3%A1quinas+virtuales+en+AWS%2C+Azure+y+Cloudflare;Automatizaci%C3%B3n+%7C+Monitoreo+%7C+Continuidad+del+negocio;Seguridad+inform%C3%A1tica+aplicada+a+la+infraestructura" alt="typing"/>
