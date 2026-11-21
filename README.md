@@ -10,11 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Administraci%C3%B3n+de+infraestructura+h%C3%ADbrida+y+multi-cloud;400%2B+m%C3%A1quinas+virtuales+en+AWS%2C+Azure+y+Cloudflare;Automatizaci%C3%B3n+%7C+Monitoreo+%7C+Continuidad+del+negocio;Seguridad+inform%C3%A1tica+aplicada+a+la+infraestructura" alt="typing"/>
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/📍_CABA,_Argentina-0d1117?style=for-the-badge" alt="ubicación"/>
-  <img src="https://img.shields.io/badge/Azure-AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="az900"/>
-  <img src="https://komarev.com/ghpvc/?username=robilotteba&style=for-the-badge&color=1f6feb&label=Visitas" alt="visitas"/>
-</p>
+
 
 </div>
 
