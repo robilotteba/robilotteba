@@ -8,7 +8,6 @@ Hecho por Brian Robilotte · GitHub · 🇦🇷
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f3f,100:00ff88&height=200&section=header&text=Brian%20Robilotte&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciberseguridad%20%7C%20Red%20Team%20%26%20Blue%20Team&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/robilotteba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+estudiante+de+ciberseguridad;Aprendiendo+en+p%C3%BAblico+%F0%9F%93%9A;Red+Team+%7C+Pentesting+%7C+CTFs;Blue+Team+%7C+SOC+%7C+Monitoreo;%24+sudo+make+me+better" alt="typing"/>
