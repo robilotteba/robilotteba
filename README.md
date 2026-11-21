@@ -1,7 +1,4 @@
 
-
-Brian Robilotte · 🇦🇷
-
 <div align="center">
 
 
