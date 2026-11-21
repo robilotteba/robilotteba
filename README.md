@@ -1,10 +1,6 @@
-[README.md](https://github.com/user-attachments/files/35202763/README.md)
 
-Hecho por Brian Robilotte · GitHub · 🇦🇷
-<!-- ============================================================ -->
-<!--  PERFIL DE GITHUB · Brian Robilotte (@robilotteba)            -->
-<!--  Reemplazá los valores marcados con TU_... por tus datos      -->
-<!-- ============================================================ -->
+
+Brian Robilotte · 🇦🇷
 
 <div align="center">
 
