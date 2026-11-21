@@ -6,7 +6,7 @@ Brian Robilotte · 🇦🇷
 
 
 <a href="https://github.com/robilotteba">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+estudiante+de+ciberseguridad;Aprendiendo+en+p%C3%BAblico+%F0%9F%93%9A;Red+Team+%7C+Pentesting+%7C+CTFs;Blue+Team+%7C+SOC+%7C+Monitoreo;%24+sudo+make+me+better" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Brian+Robilotte;Aprendiendo+en+p%C3%BAblico+%F0%9F%93%9A;Red+Team+%7C+Pentesting+%7C+CTFs;Blue+Team+%7C+SOC+%7C+Monitoreo;%24+sudo+make+me+better" alt="typing"/>
 </a>
 
 <p>
